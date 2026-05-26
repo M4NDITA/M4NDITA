@@ -2,18 +2,20 @@
 # Bem vindo(a) ao meu perfil !👋 
 
 🎓 Estudante de Ciência da Computação na Uniritter
-📍 Porto Alegre - RS, Brasil  
+
+📍 Porto Alegre - RS, Brasil
+
 💻 Futuramente desenvolvedora | Atualmente em formação 
 
 ---
 
 ## ✨ Sobre mim
 
-Sou estudante de Ciência da Computação e estou construindo minha trajetória na área de tecnologia, com foco em desenvolvimento backend.
+Sou estudante de Ciência da Computação e gosto de entender a lógica por trás da tecnologia.
 
-Tenho interesse em como sistemas funcionam por trás das aplicações, lógica de programação, estruturas de dados e resolução de problemas.
+Tenho interesse especial em backend, pois gosto de estrutura, raciocínio lógico e de como tudo funciona “por trás” dos sistemas.
 
-Além da faculdade, também estudo por conta própria para reforçar a base em programação e evoluir minhas habilidades técnicas.
+Estou sempre aprendendo coisas novas e buscando evoluir na prática, com foco e curiosidade 💜
 
 ---
 
@@ -42,7 +44,7 @@ Hoje estou em transição para a área de tecnologia, com foco em backend e dese
 
 ---
 
-## 🛠️ tecnologias e conhecimentos
+## 🛠️ Tecnologias e Conhecimentos
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>          
 
@@ -56,7 +58,16 @@ Hoje estou em transição para a área de tecnologia, com foco em backend e dese
 <a href="https://www.linkedin.com/in/amandavareira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>  
 
+---
 
+<div>
+<a href="https://github.com/M4NDITA">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4NDITA&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=M4NDITA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+![Snake animation](https://github.com/M4NDITA/M4NDITA/blob/output/github-contribution-grid-snake.svg)
 
 
 
