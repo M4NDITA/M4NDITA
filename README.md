@@ -1,5 +1,5 @@
-## Oie! Me chamo Amanda Vareira
-# Bem vindo(a) ao meu perfil !👋 
+# Oie! Me chamo Amanda Vareira
+## Bem vindo(a) ao meu perfil !👋 
 
 🎓 Estudante de Ciência da Computação na Uniritter
 
